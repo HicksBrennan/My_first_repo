@@ -1,2 +1,3 @@
 # README #
-Hello WOrld, I love using git!
+Hello World, I love using git!
+This is an intentional change.
